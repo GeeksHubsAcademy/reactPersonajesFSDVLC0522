@@ -1,0 +1,13 @@
+
+
+.clickerDesign {
+    height: 1em;
+    width: 5em;
+
+    background-color: aqua;
+
+    color: white;
+
+    border-radius: 5em;
+    cursor: pointer;
+}
